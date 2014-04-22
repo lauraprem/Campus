@@ -4,13 +4,13 @@
 */
 
 .row [class^="col-"] {
-/*   border: 1px solid #ddd;
-    border: 1px solid rgba(128,128,128,.4);
-    border-radius: 5px;*/
+    /*   border: 1px solid #ddd;
+        border: 1px solid rgba(128,128,128,.4);
+        border-radius: 5px;*/
 }
 footer {
-  background: black;
-  color: white;
+    background: black;
+    color: white;
 }
 .list-group-item{
     background-color: rgb(51,204,204);
@@ -46,7 +46,22 @@ a.list-group-item {
 .text-logo{
     font-family: FromWhereYouAre;
 }
-/*
-.btn{
+.well {
     background-color: rgb(51,204,204);
-}*/
+    border: 1px solid rgb(51,204,204);
+}
+
+.btn{
+    background-color: #800080;
+    border-color: #800080;
+}
+.btn:focus{
+    background-color: #FFF;
+    border-color: #FFF;
+    color: black;
+}
+.btn:hover{
+    background-color: #FFF;
+    border-color: #FFF;
+    color: black;
+}
