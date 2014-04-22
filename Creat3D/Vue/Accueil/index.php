@@ -6,7 +6,7 @@
       <div class="col-md-5">
         <h1>Bienvenue chez Creat3D !</h1>
         Quel que soit votre besoin en maquette architecturale, nous pouvons vous aider !
-        Nous imprimons en 3D vos modélisations en tailles variées et en couleurs. <br><br>Pour en savoir plus sur les tailles, matériaux et coulurs que nous proposons, rendez-vous sur "Notre offre".
+        Nous imprimons en 3D vos modélisations en tailles variées et en couleurs. <br><br>Pour en savoir plus sur les tailles, matériaux et couleurs que nous proposons, rendez-vous sur "Notre offre".
         Si vous voulez savoir quelles technologies et savoir-faires nous utilisons, cliquez sur "Notre métier". Pour mieux nous connaitres, allez voir la section "à propos".
       </div>
       <div class="col-md-5">
