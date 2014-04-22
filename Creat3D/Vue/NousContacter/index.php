@@ -1,8 +1,4 @@
-<?php
-
-/* 
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
+<?php $this->titre = "Nous Contacter";?>
+<div class="row">
+  <?php include_once("/Vue/_Commun/menuNavigation.php") ?>
+</div>

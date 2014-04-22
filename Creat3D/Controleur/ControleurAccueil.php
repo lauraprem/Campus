@@ -9,16 +9,13 @@
 require_once 'Framework/Controleur.php';
 
 class ControleurAccueil extends Controleur {
-    private $titre;
     public function __construct() {
-      $this->titre="Accueil";
     }
 
 
     // Affiche la liste de tous les genres du blogrequire 'Vue/_Commun/menuNavigation.php'
     public function index() {
-      $titre=$this->titre;
-    $this->genererVue(array('title' => $titre));
+    $this->genererVue();
     }
 
 }

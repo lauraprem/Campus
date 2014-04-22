@@ -9,14 +9,11 @@
 require_once 'Framework/Controleur.php';
 
 class ControleurNousContacter extends Controleur {
-    private $titre;
     public function __construct() {
-      $this->titre="Nous Contacter";
     }
 
     // Affiche la liste de tous les genres du blogrequire 'Vue/_Commun/menuNavigation.php'
     public function index() {
-      $titre=$this->titre;
-    $this->genererVue(array('title' => $titre));
+    $this->genererVue();
     }
 }
