@@ -10,7 +10,7 @@
       </div>
       <div class="col-md-5">
         <figure>
-          <img class="img-responsive" src="Contenu/Images/jeux-video.jpg" alt="Image du jeux vidéo" />
+          <img class="img-responsive" src="Contenu/Images/logo.jpg" alt="Copyright all reserved" />
           <figcaption><!-- Legende associe --></figcaption>
         </figure>
       </div>
