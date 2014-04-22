@@ -8,9 +8,6 @@
     border: 1px solid rgba(128,128,128,.4);
     border-radius: 5px;*/
 }
-body{
-    font-family: FromWhereYouAre;
-}
 footer {
   background: black;
   color: white;
@@ -30,6 +27,7 @@ footer {
 .navbar-default {
     background-color: #800080;
     border-color: #800080;
+    font-family: FromWhereYouAre;
 }
 .list-group-item {
     border: 1px solid #800080;
@@ -43,7 +41,7 @@ a.list-group-item {
 }
 @font-face {
     font-family: "FromWhereYouAre";
-    src: url('./Contenu/Font-style/FromWhereYouAre.ttf');
+    src: url('./Font-style/FromWhereYouAre.ttf');
 } 
 /*
 .btn{
