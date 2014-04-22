@@ -4,9 +4,10 @@
   <div class="col-md-10">
     <div class="row">
       <div class="col-md-5">
-        <h1>Bienvenue sur Ugame !</h1>
-        Que vous cherchiez un jeu neuf ou d'occasion, récent ou plus ancien, 
-        sur n'importe quelle plateforme, de n'importe quel genre et le tout à des prix cassé, vous êtes au bon endroit
+        <h1>Bienvenue chez Creat3D !</h1>
+        Quel que soit votre besoin en maquette architecturale, nous pouvons vous aider !
+        Nous imprimons en 3D vos modélisations en tailles variées et en couleurs. <br><br>Pour en savoir plus sur les tailles, matériaux et coulurs que nous proposons, rendez-vous sur "Notre offre".
+        Si vous voulez savoir quelles technologies et savoir-faires nous utilisons, cliquez sur "Notre métier". Pour mieux nous connaitres, allez voir la section "à propos".
       </div>
       <div class="col-md-5">
         <figure>
