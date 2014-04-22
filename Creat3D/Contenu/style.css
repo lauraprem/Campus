@@ -28,6 +28,12 @@ footer {
     background-color: #800080;
     border-color: #800080;
 }
+.list-group-item {
+    border: 1px solid #800080;
+}
+a.list-group-item {
+    color: #000;
+}
 
 .col-vert-centered-2{
     margin: 12% 0;
