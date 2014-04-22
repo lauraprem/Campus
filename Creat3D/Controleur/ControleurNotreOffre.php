@@ -8,10 +8,10 @@
 
 require_once 'Framework/Controleur.php';
 
-class ControleurAccueil extends Controleur {
+class ControleurNotreOffre extends Controleur {
     private $titre;
     public function __construct() {
-      $this->titre="Accueil";
+      $this->titretitre="Notre Offre";
     }
 
 

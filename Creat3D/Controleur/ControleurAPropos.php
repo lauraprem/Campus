@@ -8,12 +8,11 @@
 
 require_once 'Framework/Controleur.php';
 
-class ControleurAccueil extends Controleur {
+class ControleurApropos extends Controleur {
     private $titre;
     public function __construct() {
-      $this->titre="Accueil";
+      $this->titretitre="A propos";
     }
-
 
     // Affiche la liste de tous les genres du blogrequire 'Vue/_Commun/menuNavigation.php'
     public function index() {
