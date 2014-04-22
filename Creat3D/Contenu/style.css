@@ -1,0 +1,29 @@
+/* 
+    Created on : 18 mars 2014, 14:40:49
+    Author     : 4lexandre, FaCoInf, LauraPrem
+*/
+
+.row [class^="col-"] {
+/*    border: 1px solid #ddd;
+    border: 1px solid rgba(128,128,128,.4);
+    border-radius: 5px;*/
+}
+footer {
+  background: black;
+  color: white;
+}
+.list-group-item{
+    background-color: #FFE4C4;
+}
+
+.img-jeu{
+    max-height: 200px;
+}
+
+.img-panier{
+    max-height: 70px;
+}
+
+.col-vert-centered-2{
+    margin: 12% 0;
+}
