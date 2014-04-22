@@ -42,7 +42,10 @@ a.list-group-item {
 @font-face {
     font-family: "FromWhereYouAre";
     src: url('./Font-style/FromWhereYouAre.ttf');
-} 
+}
+.text-logo{
+    font-family: FromWhereYouAre;
+}
 /*
 .btn{
     background-color: rgb(51,204,204);
