@@ -32,3 +32,7 @@ footer {
 .col-vert-centered-2{
     margin: 12% 0;
 }
+
+.btn{
+    background-color: rgb(51,204,204);
+}
