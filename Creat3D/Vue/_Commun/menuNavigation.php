@@ -1,14 +1,7 @@
 <div class="col-md-2">
-  <h3>Genre</h3>
   <div class="list-group">
-    <?php foreach ($nbJeuxParGenre as $genreNav): ?>
-      <a class="list-group-item" href="navigation/index/<?= $genreNav['id'] ?>" 
-      <?php if(isset($idGenre)&&$idGenre==$genreNav['id']): ?>
-         style="background-color: #cccccc;"
-      <?php endif; ?>  
-         >
-        <?= $this->nettoyer($genreNav['nom']) ?> (<?= $this->nettoyer($genreNav['occurrence']) ?>)
-      </a>
-    <?php endforeach; ?>
+    <a class="list-group-item" href="qui-sommes-nous/index">Qui sommes nous ?</a>
+    <a class="list-group-item" href="notre-metier/index">Notre métier</a>
+    <a class="list-group-item" href="nous-contacter/index">Nous contacter</a>
   </div>
 </div>
