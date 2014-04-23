@@ -20,13 +20,13 @@
           entreprise sans avoir besoin d’embaucher du personnel à l’extérieur 
           du groupe.</p>
         <p>Composition :<br/>
-          <a href="#actor1">Corinne Fragno</a><br/>
-          <a href="#actor2">Alexandre Galdéano</a><br/>
-          <a href="#actor3">Joseph Ghoul</a><br/>
-          <a href="#actor4">&Eacute;;lodie Mourier</a><br/>
-          <a href="#actor5">Laura Prémillieu</a><br/>
-          <a href="#actor6">Jérôme Rateau</a><br/>
-          <a href="#actor7">Tristan Salvadori</a></p>
+          <a href="#actor1">Corinne Fragno</a>, actionnaire<br/>
+          <a href="#actor2">Alexandre Galdéano</a>, actionnaire<br/>
+          <a href="#actor3">Joseph Ghoul</a>, actionnaire<br/>
+          <a href="#actor4">&Eacute;;lodie Mourier</a>, actionnaire<br/>
+          <a href="#actor5">Laura Prémillieu</a>, actionnaire<br/>
+          <a href="#actor6">Jérôme Rateau</a>, actionnaire<br/>
+          <a href="#actor7">Tristan Salvadori</a>, actionnaire</p>
         <hr/>
         <h3 id='actor1'>Corinne Fagno
         <a href="#titre"> <span class="glyphicon glyphicon-arrow-up"></span> </a></h3>
