@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="<?= $racineWeb ?>Librairies/bootstrap/css/united.min.css" rel="stylesheet" media="screen">
     <link href="<?= $racineWeb ?>Contenu/style.css" rel="stylesheet" media="screen">
+    <script type="text/javascript" src="<?= $racineWeb ?>Librairies/date_heure.js"></script>
     <title><?= $this->titre ?></title> 
   </head>
   <body>

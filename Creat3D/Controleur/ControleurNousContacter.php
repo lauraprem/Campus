@@ -20,21 +20,43 @@ class ControleurNousContacter extends Controleur {
   }
 
   public function envoyer() {
+    $endl = '\n';
+
+    $boundary = "-----=" . md5(rand());
     $nom = $_POST['nom'];
     $tel = $_POST['tel'];
     $courriel = $_POST['courriel'];
     $msg = $_POST['message'];
     $TO = 'alexandre.galdeano@etu.univ-lyon1.fr';
-    $h = 'From: ' . $courriel;
+    $msg = 'Entreprise : ' . $nom . '\nNuméro de téléphone : ' . $tel . '\nCourriel : ' . $courriel . '\nMessage : ' . $msg;
+    
     $subject = '[CREAT3D-Contact] ' . $nom;
-    $message = 'Entreprise : ' . $nom .
-      '\nNuméro de téléphone : ' . $tel .
-      '\nCourriel : ' . $courriel .
-      '\nMessage : ' . $msg;
-
-    mail($TO, $subject, $message, $h);
+    
+    mail($TO, $subject, $this->message($msg, $boundary, $endl), $this->header($nom, $courriel, $boundary, $endl));
 
     $this->genererVue();
   }
+  
+  private function header($nom, $courriel, $boundary, $endl)
+  {
+    $header = 'From: \"' . $nom . '\"<' . $courriel . '>' . $endl;
+    $header .= 'Reply-to: \"' . $nom . '\"<' . $courriel . '>' . $endl;
+    $header .= "MIME-Version: 1.0" . $endl;
+    $header .= "Content-Type: multipart/alternative;" . $endl . " boundary=\"'.$boundary.'\"" . $endl;
 
+    return $header;
+  }
+  
+  private function message($msg, $boundary, $endl)
+  {
+    $message = $endl . "--" . $boundary . $endl;
+    $message .= "Content-Type: text/html; charset=\"ISO-8859-1\"" . $endl;
+    $message .= "Content-Transfer-Encoding: 8bit" . $endl;
+    $message .= $endl;
+    $message .= $msg;
+    $message .= $endl;
+    $message.= $endl . "--" . $boundary . "--" . $endl;
+    $message.= $endl . "--" . $boundary . "--" . $endl;
+    return $message;
+  }
 }
