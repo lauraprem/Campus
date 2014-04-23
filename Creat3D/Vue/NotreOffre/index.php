@@ -21,7 +21,7 @@
                 autre ...<br><br><br>
 
 
-               <h3> Pour obtenir un devis de votre maquette, veuillez remplir le formulaire sur la page "nous contacter"  avant de nous l'envoyer</h3>
+                <h3> Pour obtenir un devis de votre maquette, veuillez remplir le formulaire sur la page <a href = "nousContacter" >"nous contacter" </a> avant de nous l'envoyer</h3>
 
             </div>
     </div>
