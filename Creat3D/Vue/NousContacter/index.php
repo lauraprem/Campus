@@ -17,6 +17,11 @@
                         </div>
                         <div class="form-group">
                             <div class="col-sm-6 col-sm-offset-3 col-md-4 col-md-offset-4">
+                                <input name="tel" type="tel" class="form-control" placeholder="Entrez votre numero de telephone" required autofocus>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div class="col-sm-6 col-sm-offset-3 col-md-4 col-md-offset-4">
                                 <input name="courriel" type="email" class="form-control" placeholder="Entrez votre courriel" required autofocus>
                             </div>
                         </div>
