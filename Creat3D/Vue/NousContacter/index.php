@@ -17,7 +17,7 @@
                         </div>
                         <div class="form-group">
                             <div class="col-sm-6 col-sm-offset-3 col-md-4 col-md-offset-4">
-                                <input name="tel" type="tel" class="form-control" placeholder="Entrez votre numero de telephone" required autofocus>
+                                <input name="tel" type="tel" pattern="^((\+\d{1,3}(-| )?\(?\d\)?(-| )?\d{1,5})|(\(?\d{2,6}\)?))(-| )?(\d{3,4})(-| )?(\d{4})(( x| ext)\d{1,5}){0,1}$" class="form-control" placeholder="Entrez votre numero de téléphone" required autofocus>
                             </div>
                         </div>
                         <div class="form-group">
@@ -27,7 +27,7 @@
                         </div>
                         <div class="form-group">
                             <div class="col-sm-6 col-sm-offset-3 col-md-4 col-md-offset-4">
-                                <textarea name="message" type="text" class="form-control" placeholder="Entrez votre message" required style="height: 150px;"></textarea>
+                                <textarea name="message" class="form-control" placeholder="Entrez votre message" required style="height: 150px;"></textarea>
                             </div>
                         </div>
                         <div class="form-group">
@@ -37,7 +37,6 @@
                         </div>
                     </form>
                 </div>
-                </form>
             </div>
         </div>
     </div>

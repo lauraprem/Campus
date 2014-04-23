@@ -4,7 +4,7 @@
   <div class="col-md-10">
     <div class="row">
       <div class="col-md-10">
-        <h1>Génèse et contexte du projet</h1>
+        <h1 id="titre">Génèse et contexte du projet</h1>
         <p>Ce projet a vu le jour dans le cadre du concours Campus Création. 
           Nous avons eu, dès le départ, l’envie de collaborer autour d’une 
           nouvelle technologie qui aujourd’hui devient incontournable : 
@@ -20,15 +20,16 @@
           entreprise sans avoir besoin d’embaucher du personnel à l’extérieur 
           du groupe.</p>
         <p>Composition :<br/>
-          <a href="aPropos/#actor1">Corinne Fragno</a><br/>
-          <a href="aPropos/#actor2">Alexandre Galdéano</a><br/>
-          <a href="aPropos/#actor3">Joseph Ghoul</a><br/>
-          <a href="aPropos/#actor4">&Egrave;lodie Mourier</a><br/>
-          <a href="aPropos/#actor5">Laura Prémillieu</a><br/>
-          <a href="aPropos/#actor6">Jérôme Rateau</a><br/>
-          <a href="aPropos/#actor7">Tristan Salvadori</a></p>
+          <a href="#actor1">Corinne Fragno</a><br/>
+          <a href="#actor2">Alexandre Galdéano</a><br/>
+          <a href="#actor3">Joseph Ghoul</a><br/>
+          <a href="#actor4">&Eacute;;lodie Mourier</a><br/>
+          <a href="#actor5">Laura Prémillieu</a><br/>
+          <a href="#actor6">Jérôme Rateau</a><br/>
+          <a href="#actor7">Tristan Salvadori</a></p>
         <hr/>
-        <h3 id='actor1'>Corinne Fagno</h3>
+        <h3 id='actor1'>Corinne Fagno
+        <a href="#titre"> <span class="glyphicon glyphicon-arrow-up"></span> </a></h3>
         <h4>Actionnaire</h4>
         <p>Après l’obtention d’un DUT en informatique, elle suit une formation 
           pour devenir ingénieur en informatique. Au cours de sa formation elle 
@@ -36,21 +37,24 @@
           intéressée aux nouvelles technologies qui l’attirent particulièrement.</p>
 
         <hr/>
-        <h3 id='actor2'>Alexandre Galdéano</h3>
+        <h3 id='actor2'>Alexandre Galdéano
+        <a href="#titre"> <span class="glyphicon glyphicon-arrow-up"></span> </a></h3>
         <h4>Responsable Production</h4>
         <p>Suite à deux années en classes préparatoires mathématiques et 
           informatique, il suit une formation d’ingénieur informatique. Les 
           sciences et les technologies le passionnent.</p>
 
         <hr/>
-        <h3 id='actor3'>Joseph Ghoul</h3>
+        <h3 id='actor3'>Joseph Ghoul
+        <a href="#titre"> <span class="glyphicon glyphicon-arrow-up"></span> </a></h3>
         <h4>Actionnaire</h4>
         <p>Après deux années en classes préparatoires, il intègre l’ENTPE (Ecole
           Nationale des Travaux Publics de l’Etat). La modélisation et la 
           construction ont toujours comptés parmi ses centres d’intérêts.</p>
 
         <hr/>
-        <h3 id='actor4'>Elodie Mourier</h3>
+        <h3 id='actor4'>&Eacute;lodie Mourier
+        <a href="#titre"> <span class="glyphicon glyphicon-arrow-up"></span> </a></h3>
         <h4>Actionnaire</h4>
         <p>Suite à deux années en classes préparatoires scientifiques, elle suit
           une formation pour devenir ingénieur spécialisée en informatique. 
@@ -58,7 +62,8 @@
           l’intéressent tout particulièrement.</p>
 
         <hr/>
-        <h3 id='actor5'>Laura Prémillieu</h3>
+        <h3 id='actor5'>Laura Prémillieu
+        <a href="#titre"> <span class="glyphicon glyphicon-arrow-up"></span> </a></h3>
         <h4>Responsable Informatique</h4>
         <p>Après l’obtention d’un DUT en informatique, elle est à présent 
           ingénieur informatique en devenir. Grâce à une formation orientée vers
@@ -66,7 +71,8 @@
           et continuer à découvrir les avancées l’attire au plus haut point.</p>
 
         <hr/>
-        <h3 id='actor6'>Jérôme Rateau</h3>
+        <h3 id='actor6'>Jérôme Rateau
+        <a href="#titre"> <span class="glyphicon glyphicon-arrow-up"></span> </a></h3>
         <h4>Actionnaire</h4>
         <p>Il a suivi deux années de formation en gestion des petites et 
           moyennes entreprises durant lesquelles il a eu l’occasion de réaliser 
@@ -75,7 +81,8 @@
           management des affaires internationales à l’IAE de Lyon.</p>
 
         <hr/>
-        <h3 id='actor7'>Tristan Salvadori</h3>
+        <h3 id='actor7'>Tristan Salvadori
+        <a href="#titre"> <span class="glyphicon glyphicon-arrow-up"></span> </a></h3>
         <h4>Gestionnaire et Responsable Commercial</h4>
         <p>Titulaire d’un BTS en commerce International et d’une Licence en 
           Sciences de Gestion, il est actuellement en Master en Affaires 
