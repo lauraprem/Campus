@@ -22,7 +22,8 @@
                 autre ...</p>
 
 
-                <h3 class="text-center"> Pour obtenir un devis de votre maquette,<br> veuillez remplir le formulaire sur la page <a href = "nousContacter" >"nous contacter" </a> avant de nous l'envoyer</h3>
+                <h2 class="text-center">Pour obtenir un devis de votre maquette : 
+                  <a href = "nousContacter" >cliquez ici</a></h2>
 
             </div>
     </div>

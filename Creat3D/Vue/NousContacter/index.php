@@ -8,7 +8,7 @@
             </div>
             <div class="tab-content">
                 <div class="tab-pane fade in active" id="connexion">
-                    <form class="form-signin form-horizontal" role="form" action="connexion/connecter" method="post">
+                    <form class="form-signin form-horizontal" role="form" action="nousContacter/envoyer" method="post">
                         <div class="form-group">
                             <br/>
                             <div class="col-sm-6 col-sm-offset-3 col-md-4 col-md-offset-4">
