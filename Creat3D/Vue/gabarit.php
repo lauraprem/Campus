@@ -70,8 +70,8 @@
 				};
 			})(jQuery)
 
-			$('a:first').juizScrollTo('fast',-75).css('color', 'red');
-			$('a:not(:first)').juizScrollTo('slow').css('color', '#444');
+			$('a:first').juizScrollTo('fast',-75);
+			$('a:not(:first)').juizScrollTo('slow');
 
 		</script>
 
