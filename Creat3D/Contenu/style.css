@@ -66,3 +66,15 @@ a.list-group-item {
     border-color: #FFF;
     color: black;
 }
+//violet / bleu
+a:hover, a:focus {
+    color: #800080;
+    text-decoration: underline;
+}
+a:hover, a:focus {
+    color: #800080;
+    text-decoration: underline;
+}
+a {
+    color: #09BDBA;
+}
