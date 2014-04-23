@@ -7,7 +7,7 @@
                 <h1> Imprimer une maquette 3D, c'est facile!</h1><br><br>
 
                 <h3>Etape 1 : je choisi mon matériau<br> </h3>
-                <img class="img-responsive" src="Contenu/Images/materiau.bmp" alt="Copyright all reserved" style ="max-height: 270px" />
+                <img class="img-responsive" src="Contenu/Images/materiau.bmp" alt="Copyright all reserved" style ="max-height: 350px" />
 
                <h3> Etape 2 : je choisi ma taille<br><br></h3>
                 exemples: <br>
@@ -21,7 +21,7 @@
                 autre ...<br><br><br>
 
 
-                <h3> Pour obtenir un devis de votre maquette, veuillez remplir le formulaire sur la page <a href = "nousContacter" >"nous contacter" </a> avant de nous l'envoyer</h3>
+                <h3 class="text-center"> Pour obtenir un devis de votre maquette,<br> veuillez remplir le formulaire sur la page <a href = "nousContacter" >"nous contacter" </a> avant de nous l'envoyer</h3>
 
             </div>
     </div>
