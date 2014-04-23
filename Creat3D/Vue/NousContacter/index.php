@@ -12,22 +12,22 @@
                         <div class="form-group">
                             <br/>
                             <div class="col-sm-6 col-sm-offset-3 col-md-4 col-md-offset-4">
-                                <input name="nom" type="text" class="form-control" placeholder="Entrez le nom de votre entreprise" required autofocus>
+                                <span class="glyphicon glyphicon-user"></span><input name="nom" type="text" class="form-control" placeholder="Entrez le nom de votre entreprise" required autofocus>
                             </div>
                         </div>
                         <div class="form-group">
                             <div class="col-sm-6 col-sm-offset-3 col-md-4 col-md-offset-4">
-                                <input name="tel" type="tel" pattern="^((\+\d{1,3}(-| )?\(?\d\)?(-| )?\d{1,5})|(\(?\d{2,6}\)?))(-| )?(\d{3,4})(-| )?(\d{4})(( x| ext)\d{1,5}){0,1}$" class="form-control" placeholder="Entrez votre numero de téléphone" required autofocus>
+                                <span class="glyphicon glyphicon-phone"></span><input name="tel" type="tel" pattern="^((\+\d{1,3}(-| )?\(?\d\)?(-| )?\d{1,5})|(\(?\d{2,6}\)?))(-| )?(\d{3,4})(-| )?(\d{4})(( x| ext)\d{1,5}){0,1}$" class="form-control" placeholder="Entrez votre numero de téléphone" required autofocus>
                             </div>
                         </div>
                         <div class="form-group">
                             <div class="col-sm-6 col-sm-offset-3 col-md-4 col-md-offset-4">
-                                <input name="courriel" type="email" class="form-control" placeholder="Entrez votre courriel" required autofocus>
+                                <span class="glyphicon glyphicon-envelope"></span><input name="courriel" type="email" class="form-control" placeholder="Entrez votre courriel" required autofocus>
                             </div>
                         </div>
                         <div class="form-group">
                             <div class="col-sm-6 col-sm-offset-3 col-md-4 col-md-offset-4">
-                                <textarea name="message" class="form-control" placeholder="Entrez votre message" required style="height: 150px;"></textarea>
+                                <span class="glyphicon glyphicon-pencil"></span><textarea name="message" class="form-control" placeholder="Entrez votre message" required style="height: 150px;"></textarea>
                             </div>
                         </div>
                         <div class="form-group">
