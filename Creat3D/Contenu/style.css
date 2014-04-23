@@ -4,13 +4,13 @@
 */
 
 .row [class^="col-"] {
-/*   border: 1px solid #ddd;
-    border: 1px solid rgba(128,128,128,.4);
-    border-radius: 5px;*/
+    /*   border: 1px solid #ddd;
+        border: 1px solid rgba(128,128,128,.4);
+        border-radius: 5px;*/
 }
 footer {
-  background: black;
-  color: white;
+    background: black;
+    color: white;
 }
 .list-group-item{
     background-color: rgb(51,204,204);
@@ -34,6 +34,7 @@ footer {
 }
 a.list-group-item {
     color: #000;
+    font-weight: bold;
 }
 
 .col-vert-centered-2{
@@ -42,8 +43,38 @@ a.list-group-item {
 @font-face {
     font-family: "FromWhereYouAre";
     src: url('./Font-style/FromWhereYouAre.ttf');
-} 
-/*
-.btn{
+}
+.text-logo{
+    font-family: FromWhereYouAre;
+}
+.well {
     background-color: rgb(51,204,204);
-}*/
+    border: 1px solid rgb(51,204,204);
+}
+
+.btn{
+    background-color: #800080;
+    border-color: #800080;
+}
+.btn:focus{
+    background-color: #FFF;
+    border-color: #FFF;
+    color: black;
+}
+.btn:hover{
+    background-color: #FFF;
+    border-color: #FFF;
+    color: black;
+}
+//violet / bleu
+a:hover, a:focus {
+    color: #800080;
+    text-decoration: underline;
+}
+a:hover, a:focus {
+    color: #800080;
+    text-decoration: underline;
+}
+a {
+    color: #09BDBA;
+}
