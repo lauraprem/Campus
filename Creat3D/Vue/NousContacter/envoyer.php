@@ -5,7 +5,7 @@
     <div class="row">
       <div class="col-md-6">
         <h2>Demande de contact envoyée</h2>
-        <h3>Nous l'a traiterons dans les plus bref délais</h3>
+        <h3>Nous la traiterons dans les plus brefs délais</h3>
       </div>
       <div class="col-md-6">
         <figure>
