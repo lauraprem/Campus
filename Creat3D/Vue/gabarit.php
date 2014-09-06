@@ -17,7 +17,7 @@
       <footer>
         <div class="row">
           <div class="col-md-12 text-center">
-            Auteurs : FAGNO Corinne, GALDEANO Alexandre, PREMILLIEU Laura
+            Auteurs : Corinne, GALDEANO Alexandre, PREMILLIEU Laura
           </div>
         </div>
       </footer>
