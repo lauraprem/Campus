@@ -23,7 +23,7 @@
           <a href="#actor2">Alexandre Galdéano</a>, Responsable Production<br/>
           <a href="#actor5">Laura Prémillieu</a>, Responsable Informatique<br/>
           <a href="#actor7">Tristan Salvadori</a>, Gestionnaire et Responsable Commercial<br/>
-          <a href="#actor1">Corinne Fragno</a>, Actionnaire<br/>
+          <a href="#actor1">Corinne </a>, Actionnaire<br/>
           <a href="#actor3">Joseph Ghoul</a>, Actionnaire<br/>
           <a href="#actor4">&Eacute;lodie Mourier</a>, Actionnaire<br/>
           <a href="#actor6">Jérôme Rateau</a>, Actionnaire</p>
@@ -54,7 +54,7 @@
           développé un goût prononcé pour l’entrepreneuriat.</p>
         <a href="#titre"> <span class="glyphicon glyphicon-arrow-up"></span> </a>
         <hr/>
-        <h3 id='actor1'>Corinne Fagno</h3>
+        <h3 id='actor1'>Corinne</h3>
         <h4>Actionnaire</h4>
         <p>Après l’obtention d’un DUT en informatique, elle suit une formation 
           pour devenir ingénieur en informatique. Au cours de sa formation elle 
